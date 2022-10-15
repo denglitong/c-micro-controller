@@ -7,3 +7,6 @@
 [submodule "mcu-stc89-led-matrix"]
 	path = mcu-stc89-led-matrix
 	url = git@github.com:denglitong/mcu-stc89-led-matrix.git
+[submodule "mcu-stc89-key"]
+	path = mcu-stc89-key
+	url = git@github.com:denglitong/mcu-stc89-key.git
