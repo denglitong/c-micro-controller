@@ -4,3 +4,6 @@
 [submodule "mcu-stc89-tube"]
 	path = mcu-stc89-tube
 	url = git@github.com:denglitong/mcu-stc89-tube.git
+[submodule "mcu-stc89-led-matrix"]
+	path = mcu-stc89-led-matrix
+	url = git@github.com:denglitong/mcu-stc89-led-matrix.git
