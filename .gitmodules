@@ -1,3 +1,6 @@
 [submodule "mcu-stc89-led"]
 	path = mcu-stc89-led
 	url = git@github.com:denglitong/mcu-stc89-led.git
+[submodule "mcu-stc89-tube"]
+	path = mcu-stc89-tube
+	url = git@github.com:denglitong/mcu-stc89-tube.git
