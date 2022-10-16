@@ -13,3 +13,6 @@
 [submodule "mcu-stc89-calculator"]
 	path = mcu-stc89-calculator
 	url = git@github.com:denglitong/mcu-stc89-calculator.git
+[submodule "mcu-stc89-motor"]
+	path = mcu-stc89-motor
+	url = git@github.com:denglitong/mcu-stc89-motor.git
