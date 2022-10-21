@@ -16,3 +16,6 @@
 [submodule "mcu-stc89-motor"]
 	path = mcu-stc89-motor
 	url = git@github.com:denglitong/mcu-stc89-motor.git
+[submodule "mcu-stc89-buzzer"]
+	path = mcu-stc89-buzzer
+	url = git@github.com:denglitong/mcu-stc89-buzzer.git
