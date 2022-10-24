@@ -22,3 +22,6 @@
 [submodule "mcu-stc89-pwm"]
 	path = mcu-stc89-pwm
 	url = git@github.com:denglitong/mcu-stc89-pwm.git
+[submodule "mcu-stc89-traffic-light"]
+	path = mcu-stc89-traffic-light
+	url = git@github.com:denglitong/mcu-stc89-traffic-light.git
