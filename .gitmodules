@@ -25,3 +25,6 @@
 [submodule "mcu-stc89-traffic-light"]
 	path = mcu-stc89-traffic-light
 	url = git@github.com:denglitong/mcu-stc89-traffic-light.git
+[submodule "mcu-stc89-long-key"]
+	path = mcu-stc89-long-key
+	url = git@github.com:denglitong/mcu-stc89-long-key.git
