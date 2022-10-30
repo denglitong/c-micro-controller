@@ -28,3 +28,9 @@
 [submodule "mcu-stc89-long-key"]
 	path = mcu-stc89-long-key
 	url = git@github.com:denglitong/mcu-stc89-long-key.git
+[submodule "mcu-stc89-io-simulation"]
+	path = mcu-stc89-io-simulation
+	url = git@github.com:denglitong/mcu-stc89-io-simulation.git
+[submodule "mcu-stc89-io"]
+	path = mcu-stc89-io
+	url = git@github.com:denglitong/mcu-stc89-io.git
