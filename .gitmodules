@@ -34,3 +34,6 @@
 [submodule "mcu-stc89-io"]
 	path = mcu-stc89-io
 	url = git@github.com:denglitong/mcu-stc89-io.git
+[submodule "mcu-stc89-io-control"]
+	path = mcu-stc89-io-control
+	url = git@github.com:denglitong/mcu-stc89-io-control.git
