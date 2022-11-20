@@ -43,3 +43,6 @@
 [submodule "mcu-stc89-lcd1602"]
 	path = mcu-stc89-lcd1602
 	url = git@github.com:denglitong/mcu-stc89-lcd1602.git
+[submodule "mcu-stc89-lcd1602-shift"]
+	path = mcu-stc89-lcd1602-shift
+	url = git@github.com:denglitong/mcu-stc89-lcd1602-shift.git
